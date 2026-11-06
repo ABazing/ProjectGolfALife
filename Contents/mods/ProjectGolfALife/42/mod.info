@@ -1,0 +1,4 @@
+name=Project Golf x A-Life (prototype)
+id=ProjectGolfALife
+require=ProjectGolf,ProjectALifeNPCs
+description=Prototype: a friendly A-Life NPC plays a round of golf with you at West Maple. Talk to them (Golf tab) or right-click > Golf partner (test) to spawn one.

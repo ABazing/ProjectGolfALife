@@ -1,0 +1,9 @@
+VERSION = 1,
+
+option ProjectGolfALife.TestPartnerSpawn
+{
+    type = boolean,
+    default = false,
+    page = ProjectGolfALife,
+    translation = ProjectGolfALife_TestPartnerSpawn,
+}

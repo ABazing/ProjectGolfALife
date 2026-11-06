@@ -1,0 +1,5 @@
+{
+    "Sandbox_ProjectGolfALife": "Project Golf x A-Life",
+    "Sandbox_ProjectGolfALife_TestPartnerSpawn": "Test partner spawn",
+    "Sandbox_ProjectGolfALife_TestPartnerSpawn_tooltip": "Adds \"Golf partner (test) > Spawn a test golf partner\" to the right-click menu: a friendly A-Life NPC dressed for golf, with a club and balls, who is your partner straight away. For testing. Single player, or admins on a server."
+}
